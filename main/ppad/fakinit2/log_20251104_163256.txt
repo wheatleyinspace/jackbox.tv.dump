@@ -1,0 +1,54 @@
+[2025-11-04 16:32:56] 🎮 Игра: ppad-fakinit2
+[2025-11-04 16:32:56] ==== Скачиваем CfMq9O92.js ====
+[2025-11-04 16:32:56] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\CfMq9O92.js
+[2025-11-04 16:32:56] ==== Скачиваем BT6yZ-Xa.css ====
+[2025-11-04 16:32:57] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\BT6yZ-Xa.css
+[2025-11-04 16:32:57] 🔗 Найдено в CSS: 11 ссылок
+[2025-11-04 16:32:57] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CMUb-qOV.png
+[2025-11-04 16:32:57] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\ooutfVSm.woff2
+[2025-11-04 16:32:58] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CU-VZ7jl.woff2
+[2025-11-04 16:32:58] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\YdmRXVJE.png
+[2025-11-04 16:32:59] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\DBQogq9t.svg
+[2025-11-04 16:32:59] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\BTu5K1vG.svg
+[2025-11-04 16:32:59] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\C7tQMibG.svg
+[2025-11-04 16:32:59] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\W9BgZG9h.svg
+[2025-11-04 16:32:59] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\BN7a8F5T.svg
+[2025-11-04 16:33:00] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\IJ7fp5dv.svg
+[2025-11-04 16:33:01] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CYgshQN2.svg
+[2025-11-04 16:33:01] 🔗 Найдено в JS: 34 ссылок
+[2025-11-04 16:33:02] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\BhWysX6c.wav
+[2025-11-04 16:33:02] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\DLGomgNm.png
+[2025-11-04 16:33:03] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\B8C13_5i.png
+[2025-11-04 16:33:03] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\DaAsZ-1o.png
+[2025-11-04 16:33:04] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\C0nA0hrp.png
+[2025-11-04 16:33:04] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\_LZDgMYc.png
+[2025-11-04 16:33:05] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\Bwlnl62i.png
+[2025-11-04 16:33:05] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\DN8YV_ih.png
+[2025-11-04 16:33:06] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\Dv-2T4fF.png
+[2025-11-04 16:33:06] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CrfkZ1TQ.png
+[2025-11-04 16:33:07] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\dCFSqZ2R.png
+[2025-11-04 16:33:08] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\BG_bsjsV.png
+[2025-11-04 16:33:08] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\C8NRIl69.png
+[2025-11-04 16:33:09] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\DxrHyeBM.png
+[2025-11-04 16:33:09] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\BvgUCGSg.png
+[2025-11-04 16:33:10] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\lmd0Rvid.png
+[2025-11-04 16:33:11] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\COSzFmUA.png
+[2025-11-04 16:33:11] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\BNWoswH7.png
+[2025-11-04 16:33:12] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CmLvVG73.png
+[2025-11-04 16:33:12] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\DMWqG4IE.png
+[2025-11-04 16:33:13] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CXqIAgX2.png
+[2025-11-04 16:33:13] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CGrQJF0t.png
+[2025-11-04 16:33:14] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\C16FMcwZ.png
+[2025-11-04 16:33:15] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CNk17Eiv.png
+[2025-11-04 16:33:15] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\7a9tMZL_.png
+[2025-11-04 16:33:15] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\D6_fv5nU.png
+[2025-11-04 16:33:16] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\XicMa3AS.png
+[2025-11-04 16:33:16] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\B9BrZzgA.png
+[2025-11-04 16:33:16] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\QngjEaBA.png
+[2025-11-04 16:33:17] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CuRITmxs.png
+[2025-11-04 16:33:17] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\D-_cT0Sx.png
+[2025-11-04 16:33:17] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\B3WnyB4u.png
+[2025-11-04 16:33:18] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\y14IEhHQ.png
+[2025-11-04 16:33:18] Скачан: D:\Gamess\tv\jackboxtvfull\main\ppad-fakinit2\assets\CWy1FmVG.png
+[2025-11-04 16:33:18] 🔗 Найдено общих ссылок: 45
+[2025-11-04 16:33:18] ✅ Готово! Все ассеты bundles.jackbox.tv скачаны.
