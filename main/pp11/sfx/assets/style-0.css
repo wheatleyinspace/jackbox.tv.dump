@@ -1430,7 +1430,7 @@ path[data-v-16eba653] {
     display: block;
     width: 100%;
     padding-top: 37.7778%;
-    background-image: url(./CMUb-qOV.png);
+    background-image: url(/main/pp11/sfx/assets/CMUb-qOV.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center
@@ -3192,7 +3192,7 @@ body {
     width: 100%;
     height: 100%;
     background-size: cover;
-    background-image: url(./CjDhxi96.png)
+    background-image: url(/main/pp11/sfx/assets/CjDhxi96.png)
 }
 
 .snake .segment.head .jaws[data-v-0f77c121] {
@@ -3455,7 +3455,7 @@ body {
     right: 200px;
     bottom: -50%;
     border-radius: 100px 100px 0 0;
-    background-image: url(./wKMgTTZw.jpg);
+    background-image: url(/main/pp11/sfx/assets/wKMgTTZw.jpg);
     background-repeat: repeat
 }
 
@@ -3478,21 +3478,21 @@ body {
 .toy .crank[data-v-53e7cc95] {
     top: -15%;
     left: -45%;
-    background-image: url(./DaT2ITGm.png)
+    background-image: url(/main/pp11/sfx/assets/DaT2ITGm.png)
 }
 
 .toy .foot[data-v-53e7cc95] {
     top: 0;
     left: 0;
     transform-origin: 40% 70%;
-    background-image: url(./DQ5kDb1C.png)
+    background-image: url(/main/pp11/sfx/assets/DQ5kDb1C.png)
 }
 
 .toy .head[data-v-53e7cc95] {
     top: 0;
     left: 0;
     transform-origin: 30% 70%;
-    background-image: url(./DnScp3Cp.png)
+    background-image: url(/main/pp11/sfx/assets/DnScp3Cp.png)
 }
 
 .toy.ghost[data-v-53e7cc95] {
@@ -3562,35 +3562,35 @@ body {
 }
 
 .avatar.avatar-0[data-v-30bf6416] {
-    background-image: url(./CBEg1E-I.png)
+    background-image: url(/main/pp11/sfx/assets/CBEg1E-I.png)
 }
 
 .avatar.avatar-1[data-v-30bf6416] {
-    background-image: url(./CGSp7C7B.png)
+    background-image: url(/main/pp11/sfx/assets/CGSp7C7B.png)
 }
 
 .avatar.avatar-2[data-v-30bf6416] {
-    background-image: url(./CIfW2FhC.png)
+    background-image: url(/main/pp11/sfx/assets/CIfW2FhC.png)
 }
 
 .avatar.avatar-3[data-v-30bf6416] {
-    background-image: url(./DDcDlA3R.png)
+    background-image: url(/main/pp11/sfx/assets/DDcDlA3R.png)
 }
 
 .avatar.avatar-4[data-v-30bf6416] {
-    background-image: url(./D6JToRx9.png)
+    background-image: url(/main/pp11/sfx/assets/D6JToRx9.png)
 }
 
 .avatar.avatar-5[data-v-30bf6416] {
-    background-image: url(./B8OrDMT8.png)
+    background-image: url(/main/pp11/sfx/assets/B8OrDMT8.png)
 }
 
 .avatar.avatar-6[data-v-30bf6416] {
-    background-image: url(./DqJApLXC.png)
+    background-image: url(/main/pp11/sfx/assets/DqJApLXC.png)
 }
 
 .avatar.avatar-7[data-v-30bf6416] {
-    background-image: url(./DDwGd2SJ.png)
+    background-image: url(/main/pp11/sfx/assets/DDwGd2SJ.png)
 }
 
 .avatar.selected[data-v-30bf6416],
@@ -3856,31 +3856,31 @@ body {
 @font-face {
     font-family: Gilroy;
     font-weight: 300;
-    src: url(./BYHhOatj.woff2) format("woff2"), url(./B2MASrXw.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BYHhOatj.woff2) format("woff2"), url(/main/pp11/sfx/assets/B2MASrXw.woff) format("woff")
 }
 
 @font-face {
     font-family: Gilroy;
     font-weight: 400;
-    src: url(./yCFqXQm6.woff2) format("woff2"), url(./B3H4t4KC.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/yCFqXQm6.woff2) format("woff2"), url(/main/pp11/sfx/assets/B3H4t4KC.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 400;
-    src: url(./Bs0sne4U.woff2) format("woff2"), url(./yRyhg2ir.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/Bs0sne4U.woff2) format("woff2"), url(/main/pp11/sfx/assets/yRyhg2ir.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 600;
-    src: url(./BqpgzkW-.woff2) format("woff2"), url(./C_n69lBK.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BqpgzkW-.woff2) format("woff2"), url(/main/pp11/sfx/assets/C_n69lBK.woff) format("woff")
 }
 
 @font-face {
     font-family: Meltaface;
     font-weight: 400;
-    src: url(./DhgjAB2q.woff2) format("woff2"), url(./D2W2A1YA.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/DhgjAB2q.woff2) format("woff2"), url(/main/pp11/sfx/assets/D2W2A1YA.woff) format("woff")
 }
 
 .message[data-v-f19ddf87] {
@@ -3896,7 +3896,7 @@ body {
     left: 50%;
     height: 50%;
     aspect-ratio: 323/512;
-    background-image: url(./LOUiDCBE.png);
+    background-image: url(/main/pp11/sfx/assets/LOUiDCBE.png);
     background-size: 1000% 300%;
     transform: translate(-50%)
 }
@@ -3951,7 +3951,7 @@ body {
     left: 0;
     width: 100%;
     height: 10%;
-    background-image: url(./2P4P7V2I.png);
+    background-image: url(/main/pp11/sfx/assets/2P4P7V2I.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom center;
@@ -4145,31 +4145,31 @@ polygon[data-v-d1542c7d] {
 @font-face {
     font-family: Gilroy;
     font-weight: 300;
-    src: url(./BYHhOatj.woff2) format("woff2"), url(./B2MASrXw.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BYHhOatj.woff2) format("woff2"), url(/main/pp11/sfx/assets/B2MASrXw.woff) format("woff")
 }
 
 @font-face {
     font-family: Gilroy;
     font-weight: 400;
-    src: url(./yCFqXQm6.woff2) format("woff2"), url(./B3H4t4KC.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/yCFqXQm6.woff2) format("woff2"), url(/main/pp11/sfx/assets/B3H4t4KC.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 400;
-    src: url(./Bs0sne4U.woff2) format("woff2"), url(./yRyhg2ir.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/Bs0sne4U.woff2) format("woff2"), url(/main/pp11/sfx/assets/yRyhg2ir.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 600;
-    src: url(./BqpgzkW-.woff2) format("woff2"), url(./C_n69lBK.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BqpgzkW-.woff2) format("woff2"), url(/main/pp11/sfx/assets/C_n69lBK.woff) format("woff")
 }
 
 @font-face {
     font-family: Meltaface;
     font-weight: 400;
-    src: url(./DhgjAB2q.woff2) format("woff2"), url(./D2W2A1YA.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/DhgjAB2q.woff2) format("woff2"), url(/main/pp11/sfx/assets/D2W2A1YA.woff) format("woff")
 }
 
 .constrain[data-v-ac77848a] {
@@ -4541,31 +4541,31 @@ polygon[data-v-d1542c7d] {
 @font-face {
     font-family: Gilroy;
     font-weight: 300;
-    src: url(./BYHhOatj.woff2) format("woff2"), url(./B2MASrXw.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BYHhOatj.woff2) format("woff2"), url(/main/pp11/sfx/assets/B2MASrXw.woff) format("woff")
 }
 
 @font-face {
     font-family: Gilroy;
     font-weight: 400;
-    src: url(./yCFqXQm6.woff2) format("woff2"), url(./B3H4t4KC.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/yCFqXQm6.woff2) format("woff2"), url(/main/pp11/sfx/assets/B3H4t4KC.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 400;
-    src: url(./Bs0sne4U.woff2) format("woff2"), url(./yRyhg2ir.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/Bs0sne4U.woff2) format("woff2"), url(/main/pp11/sfx/assets/yRyhg2ir.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 600;
-    src: url(./BqpgzkW-.woff2) format("woff2"), url(./C_n69lBK.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BqpgzkW-.woff2) format("woff2"), url(/main/pp11/sfx/assets/C_n69lBK.woff) format("woff")
 }
 
 @font-face {
     font-family: Meltaface;
     font-weight: 400;
-    src: url(./DhgjAB2q.woff2) format("woff2"), url(./D2W2A1YA.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/DhgjAB2q.woff2) format("woff2"), url(/main/pp11/sfx/assets/D2W2A1YA.woff) format("woff")
 }
 
 .recording[data-v-559e289e] {
@@ -4737,31 +4737,31 @@ polygon[data-v-d1542c7d] {
 @font-face {
     font-family: Gilroy;
     font-weight: 300;
-    src: url(./BYHhOatj.woff2) format("woff2"), url(./B2MASrXw.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BYHhOatj.woff2) format("woff2"), url(/main/pp11/sfx/assets/B2MASrXw.woff) format("woff")
 }
 
 @font-face {
     font-family: Gilroy;
     font-weight: 400;
-    src: url(./yCFqXQm6.woff2) format("woff2"), url(./B3H4t4KC.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/yCFqXQm6.woff2) format("woff2"), url(/main/pp11/sfx/assets/B3H4t4KC.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 400;
-    src: url(./Bs0sne4U.woff2) format("woff2"), url(./yRyhg2ir.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/Bs0sne4U.woff2) format("woff2"), url(/main/pp11/sfx/assets/yRyhg2ir.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 600;
-    src: url(./BqpgzkW-.woff2) format("woff2"), url(./C_n69lBK.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BqpgzkW-.woff2) format("woff2"), url(/main/pp11/sfx/assets/C_n69lBK.woff) format("woff")
 }
 
 @font-face {
     font-family: Meltaface;
     font-weight: 400;
-    src: url(./DhgjAB2q.woff2) format("woff2"), url(./D2W2A1YA.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/DhgjAB2q.woff2) format("woff2"), url(/main/pp11/sfx/assets/D2W2A1YA.woff) format("woff")
 }
 
 .player-button[data-v-58f3b939] {
@@ -4839,31 +4839,31 @@ path[data-v-b832aa97] {
 @font-face {
     font-family: Gilroy;
     font-weight: 300;
-    src: url(./BYHhOatj.woff2) format("woff2"), url(./B2MASrXw.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BYHhOatj.woff2) format("woff2"), url(/main/pp11/sfx/assets/B2MASrXw.woff) format("woff")
 }
 
 @font-face {
     font-family: Gilroy;
     font-weight: 400;
-    src: url(./yCFqXQm6.woff2) format("woff2"), url(./B3H4t4KC.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/yCFqXQm6.woff2) format("woff2"), url(/main/pp11/sfx/assets/B3H4t4KC.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 400;
-    src: url(./Bs0sne4U.woff2) format("woff2"), url(./yRyhg2ir.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/Bs0sne4U.woff2) format("woff2"), url(/main/pp11/sfx/assets/yRyhg2ir.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 600;
-    src: url(./BqpgzkW-.woff2) format("woff2"), url(./C_n69lBK.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BqpgzkW-.woff2) format("woff2"), url(/main/pp11/sfx/assets/C_n69lBK.woff) format("woff")
 }
 
 @font-face {
     font-family: Meltaface;
     font-weight: 400;
-    src: url(./DhgjAB2q.woff2) format("woff2"), url(./D2W2A1YA.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/DhgjAB2q.woff2) format("woff2"), url(/main/pp11/sfx/assets/D2W2A1YA.woff) format("woff")
 }
 
 .choice-wrapper[data-v-7487069d] {
@@ -4902,31 +4902,31 @@ path[data-v-b832aa97] {
 @font-face {
     font-family: Gilroy;
     font-weight: 300;
-    src: url(./BYHhOatj.woff2) format("woff2"), url(./B2MASrXw.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BYHhOatj.woff2) format("woff2"), url(/main/pp11/sfx/assets/B2MASrXw.woff) format("woff")
 }
 
 @font-face {
     font-family: Gilroy;
     font-weight: 400;
-    src: url(./yCFqXQm6.woff2) format("woff2"), url(./B3H4t4KC.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/yCFqXQm6.woff2) format("woff2"), url(/main/pp11/sfx/assets/B3H4t4KC.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 400;
-    src: url(./Bs0sne4U.woff2) format("woff2"), url(./yRyhg2ir.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/Bs0sne4U.woff2) format("woff2"), url(/main/pp11/sfx/assets/yRyhg2ir.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 600;
-    src: url(./BqpgzkW-.woff2) format("woff2"), url(./C_n69lBK.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BqpgzkW-.woff2) format("woff2"), url(/main/pp11/sfx/assets/C_n69lBK.woff) format("woff")
 }
 
 @font-face {
     font-family: Meltaface;
     font-weight: 400;
-    src: url(./DhgjAB2q.woff2) format("woff2"), url(./D2W2A1YA.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/DhgjAB2q.woff2) format("woff2"), url(/main/pp11/sfx/assets/D2W2A1YA.woff) format("woff")
 }
 
 .waiting[data-v-d8100423] {
@@ -5321,31 +5321,31 @@ polygon[data-v-dafab008] {
 @font-face {
     font-family: Gilroy;
     font-weight: 300;
-    src: url(./BYHhOatj.woff2) format("woff2"), url(./B2MASrXw.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BYHhOatj.woff2) format("woff2"), url(/main/pp11/sfx/assets/B2MASrXw.woff) format("woff")
 }
 
 @font-face {
     font-family: Gilroy;
     font-weight: 400;
-    src: url(./yCFqXQm6.woff2) format("woff2"), url(./B3H4t4KC.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/yCFqXQm6.woff2) format("woff2"), url(/main/pp11/sfx/assets/B3H4t4KC.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 400;
-    src: url(./Bs0sne4U.woff2) format("woff2"), url(./yRyhg2ir.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/Bs0sne4U.woff2) format("woff2"), url(/main/pp11/sfx/assets/yRyhg2ir.woff) format("woff")
 }
 
 @font-face {
     font-family: Familjen;
     font-weight: 600;
-    src: url(./BqpgzkW-.woff2) format("woff2"), url(./C_n69lBK.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/BqpgzkW-.woff2) format("woff2"), url(/main/pp11/sfx/assets/C_n69lBK.woff) format("woff")
 }
 
 @font-face {
     font-family: Meltaface;
     font-weight: 400;
-    src: url(./DhgjAB2q.woff2) format("woff2"), url(./D2W2A1YA.woff) format("woff")
+    src: url(/main/pp11/sfx/assets/DhgjAB2q.woff2) format("woff2"), url(/main/pp11/sfx/assets/D2W2A1YA.woff) format("woff")
 }
 
 button {
@@ -5686,7 +5686,7 @@ button:disabled {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url(./DyIN8OPB.jpg);
+    background-image: url(/main/pp11/sfx/assets/DyIN8OPB.jpg);
     background-position: center;
     background-repeat: repeat;
     background-size: 256px;
