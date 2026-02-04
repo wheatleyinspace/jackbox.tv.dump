@@ -20212,7 +20212,7 @@ let Iy = class {
     );
   }
   getS3Url(t, n) {
-    return `/${n}/${t}`;
+    return `${window.location.origin}/${n}/${t}`;
   }
   async loadHMRBundle(t) {
     const n = t.file;
